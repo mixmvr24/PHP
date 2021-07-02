@@ -29,3 +29,4 @@ var_dump($a_int > $b_float);
 var_dump($b_float != $a_int);
 var_dump( $b_float < $a_int );
 var_dump($a_int <=> $b_float);
+?>
